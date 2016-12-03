@@ -67,6 +67,6 @@ bool check_cd(Command &cd_cmd)
         return true;
     }
     return false;
-};
+}
 
 #endif

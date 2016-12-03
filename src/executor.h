@@ -60,6 +60,6 @@ bool executor(Command &exe_cmd)
          
      }
      return finish;
-};
+}
 
 #endif

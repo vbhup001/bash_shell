@@ -54,6 +54,6 @@ void parenthTraverse(tokenizer::iterator &it, tokenizer &tok)
         }
         ++it;
     }
-};
+}
 
 #endif

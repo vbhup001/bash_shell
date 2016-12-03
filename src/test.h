@@ -46,6 +46,6 @@ bool check_test(Command &val) {
           return false;
       }
       
-};
+}
 
 #endif

@@ -308,6 +308,6 @@ bool preTraverse(string in_line)
     update = traverse(it, tok);
     
     return update;
-};
+}
 
 #endif
